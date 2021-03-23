@@ -6,16 +6,16 @@ import time
 state = "yesyesyes"
 details = "Uploading Images!"
 large_image = "yes"
-client_id = "791833473765736508"
-large_text = "Free And Open Source"
+client_id = "823735298894594059"
+large_text = "Join lol"
 
 #button1 config
-Buton1Label = "The Github!"
-Buton1Url = "https://github.com/Soylol"
+Buton1Label = "Da Server"
+Buton1Url = "https://discord.gg/wbfruZUhct"
 
 #button2 config
-Buton2Label = "The Github! Again"
-Buton2Url = "https://github.com/Soylol"
+Buton2Label = "Da Sellix"
+Buton2Url = "https://sellix.io/Lush"
 
 RPC = Presence(client_id=client_id)
 RPC.connect()
